@@ -1,4 +1,25 @@
+Temat: Klient IRC
+Target: osoby w okolicy 20 roku życia i później
+Klient: dystrybutor oprogramowania
 
+Funkcje:
+  1. Ekran powitalny
+    1.1. 
+  2. Połączenie z serwerem i kanałem
+  3. Rozmowa z użytkownikami
+  4. Rozmowa prywatna
+  5. Przekształcenie ciągu znaków
+  6. Logging rozmów
+  7. Zapisanie znajomych i/lub kanału
+  8. Zakończenie aplikacji
+
+Ograniczenia:
+  1. Nieduży rozmiar
+  2. Czytelność GUI
+  3. Dostępność dla środowiska Windows
+  
+  
+  
 - program ma zostać stworzony w środowisku java;
 - ma być w stanie łączyć się z wybranym przez użytkownika serwerem IRC;
 - ma być w stanie pobierać i wysyłać wiadomości na serwer IRC;
