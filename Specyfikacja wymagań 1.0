@@ -14,10 +14,9 @@ Funkcje:
   9. Zakończenie aplikacji
 
 Ograniczenia:
-  1. Nieduży rozmiar
-  2. Czytelność GUI
-  3. Dostępność dla środowiska Windows
-  
+  1. Po zainstalowaniu nie powinien zajmować więcej niż 100 MB
+  2. Projekt GUI zgodny z wymaganiami ergonomi
+  3. Projekt kompilowany pod platformę Windows od wersji Vista i nowsze
   
   
 - program ma zostać stworzony w środowisku java;
