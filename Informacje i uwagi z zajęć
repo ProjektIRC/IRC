@@ -18,8 +18,50 @@ Edytor UML wymagany
 
 
 
+DO DIAGRAMU PRZYPADKÓW UŻYCIA
+
+1.Dostęp do menu/ustawienia
+  1.Ustawienia:
+    1.Zmiana układu okien
+    2.Zmiana czcionki
+    3.Aktywacja/dezaktywacja opcji rejestrowania wiadomości
+    4.Zakończenie aplikacji
+  2.Serwer
+    1.Wybór serwera + portu
+      1.Z listy serwera
+      2.z listy usera
+
+2.Połączenie z serwerem
+  1.Wybór kanału
+    1. z listy serwera
+    2. z listy usera
+  2.Zapis kanału na listę usera
+  3.Rozłączenie z serwerem
+  
+3.Okno czatu
+  1.Wybór kanału
+    1.Rozmowa na kanale
+    2.Zapisanie kanału
+  2.Wyjście z kanału
+  3.Rozmowa prywatna
+    1.Zapisanie osoby
+    2.Usunięcie osoby
+    3.Ignorowanie/blokowanie użytkownika
 
   
+4.Obsługa przesyłania pliku
+  1.Wybór pliku
+    1.Wysłanie pliku
+  2.Odbiór pliku
+    2.Wybór scieżki odbieranego pliku
+
+5.Obsługa wiadomości przez program (systemowe)
+  1.Rejestrowanie wiadomości
+  2.Przekształcanie ciągów znaków
+
+    
+6.Zakończenie aplikacji    
+=================================  
 - program ma zostać stworzony w środowisku java;
 - ma być w stanie łączyć się z wybranym przez użytkownika serwerem IRC;
 - ma być w stanie pobierać i wysyłać wiadomości na serwer IRC;
