@@ -1,0 +1,4 @@
+Informacje dot. standardów IRC:
+-operuje na porcie  6667/TCP
+-parametry przesyłanych danych opisane w dokumencie: http://tools.ietf.org/html/rfc1459
+-format wiadomości <message>  ::= [':' <prefix> <SPACE> ] <command> <params> <crlf>
