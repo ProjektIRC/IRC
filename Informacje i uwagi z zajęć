@@ -1,9 +1,17 @@
 <Tu będą się pojawiać przyszłe komentarze i uwagi>
 Specyfikacja -> diagram przypadków użycia -> Projekt programu
+-hierarchizacja przypadków użycia
+-dopasować GUI do diagramu przypadków użycia i oznaczyć obszary - puste pola
+
 
 11.03
 -> Diagram klas konceptualny, model domeny - rozpisać, jakie obiekty i klasy mogą być potrzebne w projekcie.
 -> Model driven design
+-> wykryć wszystkie obiekty i przypisać im funkcjonalność i dane, które będą używane w programie
+-> Zalecane wyszukanie gotowych komponentów do programu (sic!)
+
+
+- zaprojektować schemat przepływu danych, pomoże przy modelu domeny
 
 
 Edytor UML wymagany
