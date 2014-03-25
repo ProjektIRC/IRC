@@ -15,13 +15,17 @@ Specyfikacja -> diagram przypadków użycia -> Projekt programu
 -> wykryć wszystkie obiekty i przypisać im funkcjonalność i dane, które będą używane w programie
 -> Zalecane wyszukanie gotowych komponentów do programu (sic!)
 
-
 - zaprojektować schemat przepływu danych, pomoże przy modelu domeny
 
 
+25.03
+-> Dokumentację produkcyjną zacząć
+-> Stworzyć diagram klas produkcyjny (biblioteki, powiązania i zgrupowania)
+-> Tworzyć interfejs w osobnym folderze projektu, logika aplikacji ma lądować w drugim katalogu; GUI plugin do          eclipsa
+
+
+---------------------------------------------------------------------------------------------------------------------
 Edytor UML wymagany
-
-
 
 DO DIAGRAMU PRZYPADKÓW UŻYCIA
 
