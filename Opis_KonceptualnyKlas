@@ -1,0 +1,91 @@
+https://www.dropbox.com/s/srkqmvlyssocx3f/ZamodelowanyDiagramKlas.png
+
+
+class Profil
+pola:
++Preferencje preferencje
++Kontakty kontakty
++Wiadomości wiadomości
++Pliki pliki
+metody:
+-DodajProfil
+-UsuńProfil
+-DodajKontakt
+-UsuńKontakt
+-EdytujKontakt
+-DodajWiadomośćDoArchiwum
+-WysłanePliki
+-OdebranePliki
+
+-----------------
+
+class GUI
+pola:
++Połączenie połączenie
++Profil profil
+metody:
+-OknoStartowe
+-OknoPomocy
+-OknoGłówne
+-DodajProfil
+-UsuńProfil
+-ZalogujNaProfil
+
+------------------
+
+class Połączenia
+pola:
++String serwer
++Int port
+metody:
+-Połączenia połączenia
+-UstawSerwer
+-UstawPort
+-Połącz
+-Rozłącz
+
+-----------------
+
+class Preferencje
+pola:
++Nick nick
++Haslo hasło
++File plik
+metody:
+-UstawNick
+-SprawdźHasło
+-UstawHasło
+-ZapiszDoPlik
+-SprawdźPlik
+
+-----------------
+
+class Pliki
+pola:
++String nazwa
+metody:
+-WskażPlik
+-ZapiszPlik
+
+-----------------
+
+class Wiadomości
+pola:
++String wiadomość
++File plik
+metody:
+-WyślijWiadomość
+-ZapiszDoArchiwum
+
+-----------------
+
+class Kontakty
+pola:
++File nazwa
++String[] kontakty
+metody:
+-WczytajKontakty
+-ZapiszKontakt
+-UsuńKontakt
+
+-----------------
