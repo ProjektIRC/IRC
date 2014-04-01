@@ -23,6 +23,11 @@ Specyfikacja -> diagram przypadków użycia -> Projekt programu
 -> Stworzyć diagram klas produkcyjny (biblioteki, powiązania i zgrupowania)
 -> Tworzyć interfejs w osobnym folderze projektu, logika aplikacji ma lądować w drugim katalogu; GUI plugin do          eclipsa
 
+1.04
+-> Poprawić diagram aktywności i schemat przypadków użycia dla 3 przypadków: Rozmowa, zmiana ustawień i wysyłanie pliku
+-> Poprawić nazwy w diagramie klas
+-> Poprawić zależności w diagramie klas
+
 
 ---------------------------------------------------------------------------------------------------------------------
 Edytor UML wymagany
