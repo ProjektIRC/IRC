@@ -28,6 +28,14 @@ Specyfikacja -> diagram przypadków użycia -> Projekt programu
 -> Poprawić nazwy w diagramie klas
 -> Poprawić zależności w diagramie klas
 
+8.04
+-> Robić GUI
+-> PLAN TESTÓW
+-> Rozplanować gui, skorzystać z koła kolorów
+-> Zmontować czcionkę i logotyp dla projektu wspierane przez projekt
+-> Projekt dźwięków i sugestia zdarzeń współpracujące z dźwiękami
+-> Zaplanować, jak mają działać ustawienia, czy pozwalamy na zmianę ustwień czcionek, kolorów, dźwięków, etc.
+
 
 ---------------------------------------------------------------------------------------------------------------------
 Edytor UML wymagany
