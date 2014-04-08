@@ -35,6 +35,9 @@ Specyfikacja -> diagram przypadków użycia -> Projekt programu
 -> Zmontować czcionkę i logotyp dla projektu wspierane przez projekt
 -> Projekt dźwięków i sugestia zdarzeń współpracujące z dźwiękami
 -> Zaplanować, jak mają działać ustawienia, czy pozwalamy na zmianę ustwień czcionek, kolorów, dźwięków, etc.
+-> Poprawić diagram aktywności, nie ten on miszka, ma być zgodny z naszym interfejsem graficznym
+-> Dokończyć scenariusz testów
+-> Wymyśleć z bug-trackerem
 
 
 ---------------------------------------------------------------------------------------------------------------------
