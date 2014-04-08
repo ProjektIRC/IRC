@@ -12,21 +12,21 @@ Zakres testów:
 
 Planowane testy:
 
-1. testowanie połączeń: 
-próba połączenia się z 10-cioma różnymi serwerami, należącymi do różnych sieci IRC;
+1. Testowanie połączeń: 
+próba połączenia się z 10-cioma różnymi serwerami, należącymi do różnych sieci IRC.
 
-2. testowanie rozłączenia z serwerem:
+2. Testowanie rozłączenia z serwerem:
 obserwacja przy pomocy równolegle działającego klienta IRC, czy tworzona aplikacja wysyła do serwera odpowiedni 
-komunikat - string "Quit" + wiadomość z aplikacji;
+komunikat - string "Quit" + wiadomość z aplikacji.
 
-3. test logowania i przekształcania wiadomości: 
+3. Test logowania i przekształcania wiadomości: 
 obserwacja zachowania obiektów klasy String w polu tekstowym aplikacji, oraz ich poprawność z tekstem zawartym
-w pliku historii;
+w pliku historii.
 
-4. testowanie rozmowy prywatnej: 
-próba przechwycenia wiadomości wysyłanej przez aplikację do równolegle działającego klienta;
+4. Testowanie rozmowy prywatnej: 
+próba przechwycenia wiadomości wysyłanej przez aplikację do równolegle działającego klienta.
 
-5. testowanie przesyłania plików: 
-wysyłanie plików o różnych rozszerzeniach i rozmiarach, zachowując standard protokołu FTP;
+5. Testowanie przesyłania plików: 
+wysyłanie plików o różnych rozszerzeniach i rozmiarach, zachowując standard protokołu FTP.
 
-6. testowanie tworzenia listy ulubionych kanałów
+6. Testowanie tworzenia listy ulubionych kanałów.
