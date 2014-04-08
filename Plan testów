@@ -1,23 +1,32 @@
 Projekt zespołowy "Klient IRC"
 
 Testowanie aplikacji
+
+Zakres testów:
+1. Połączenie z serwerem
+2. Zmiana ustawień
+3. Rozmowa publiczna i prywatna
+4. Przesyłanie plików
+5. Zapisywanie kanałów, serwerów i użytkowników
+
+
 Planowane testy:
 
-1. testowanie systemów klas zostaje pominięte dla klas nie zdefiniowanych przez zespół;
-
-2. testowanie połączeń: 
+1. testowanie połączeń: 
 próba połączenia się z 10-cioma różnymi serwerami, należącymi do różnych sieci IRC;
 
-3. testowanie rozłączenia z serwerem:
+2. testowanie rozłączenia z serwerem:
 obserwacja przy pomocy równolegle działającego klienta IRC, czy tworzona aplikacja wysyła do serwera odpowiedni 
-komunikat;
+komunikat - string "Quit" + wiadomość z aplikacji;
 
-4. test logowania i przekształcania wiadomości: 
+3. test logowania i przekształcania wiadomości: 
 obserwacja zachowania obiektów klasy String w polu tekstowym aplikacji, oraz ich poprawność z tekstem zawartym
 w pliku historii;
 
-5. testowanie rozmowy prywatnej: 
+4. testowanie rozmowy prywatnej: 
 próba przechwycenia wiadomości wysyłanej przez aplikację do równolegle działającego klienta;
 
-6. testowanie przesyłania plików: 
+5. testowanie przesyłania plików: 
 wysyłanie plików o różnych rozszerzeniach i rozmiarach, zachowując standard protokołu FTP;
+
+6. testowanie tworzenia listy ulubionych kanałów
